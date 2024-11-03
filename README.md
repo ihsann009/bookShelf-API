@@ -14,12 +14,12 @@ bookShelf-API/
 │   ├── models/
 │   │   └── book.js
 ├── test/
-│   ├── Bookshelf API Test.postman_collection.json
-│   ├── Bookshelf API Test.postman_environment.json
-├── .gitignore
-├── README.md
-├── eslint.config.mjs
-├── package-lock.json
-├── package.json
+│   └── Bookshelf API Test.postman_collection.json
+│   └── Bookshelf API Test.postman_environment.json
+└── .gitignore
+└── README.md
+└── eslint.config.mjs
+└── package-lock.json
+└── package.json
 └── server.js
 
