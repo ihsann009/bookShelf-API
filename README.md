@@ -3,7 +3,7 @@
 **bookShelf-API**
 
 ## Structure
-Bookshelf-API/
+bookShelf-API/
 │
 ├── app/
 │   ├── api/
@@ -13,7 +13,7 @@ Bookshelf-API/
 │   │   │   └── books.js
 │   ├── models/
 │   │   └── book.js
-├──test
+├── test/
 │   ├── Bookshelf API Test.postman_collection.json
 │   ├── Bookshelf API Test.postman_environment.json
 ├── .gitignore
