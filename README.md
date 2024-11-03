@@ -1,6 +1,6 @@
 ## Dicoding Submission
 
-**bookShelf-API**
+**bookShelf-API.**
 
 ## Structure
 bookShelf-API/
